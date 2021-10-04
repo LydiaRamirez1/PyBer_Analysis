@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview
-Creating a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, creating a multiple-line graph that shows the total weekly fares for each city type. Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, get the total number of rides, total number of drivers, and the total fares for each city type. Then, calculate the average fare per ride and average fare per driver for each city type. Finally, add this data to a new DataFrame, then format the columns.
+Creating a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, creating a multiple-line graph that shows the total weekly fares for each city type. Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns to get the total number of rides, total number of drivers, and the total fares for each city type. Then calculating the average fare per ride and average fare per driver for each city type.
 ## Results
 ### Results by City Type
 Rural cities have the least amount of rides, drivers, and total fares.
